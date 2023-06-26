@@ -8,4 +8,4 @@
 <br>
 
 ### 📊 Github stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bougrine-bd&layout=demo&theme=tokyonight&bg_color=122339)](https://github.com/bougrine-bd/1337_Projects)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bougrine-bd&size_weight=1&count_weight=0&theme=tokyonight&bg_color=122339)](https://github.com/bougrine-bd/1337_Projects)
